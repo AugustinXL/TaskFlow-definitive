@@ -1,0 +1,9 @@
+<!-- Arquivo JMX mínimo — edite no JMeter GUI. Aqui colocamos um placeholder. -->
+<jmeterTestPlan version="1.2" properties="5.0" jmeter="5.5">
+  <hashTree>
+    <TestPlan guiclass="TestPlanGui" testclass="TestPlan" testname="TaskFlow Test Plan" enabled="true">
+      <stringProp name="TestPlan.comments"></stringProp>
+    </TestPlan>
+    <hashTree/>
+  </hashTree>
+</jmeterTestPlan>
