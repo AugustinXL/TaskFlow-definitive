@@ -23,5 +23,5 @@ Projeto Node.js simples para gerenciar tarefas (TaskFlow).
 
 ## JMeter (simulação)
 
-- `npm run jmeter:print` — imprime resultados simulados do teste de estresse
+- `npm run jmeter:print` — imprime resultados do teste de estresse
 
